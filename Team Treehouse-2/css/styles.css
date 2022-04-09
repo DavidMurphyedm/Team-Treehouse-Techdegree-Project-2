@@ -10,8 +10,8 @@ body {
   flex-direction: column;
   min-height: 100vh;
   font-family: 'Roboto', sans-serif;
-  color: black;
-  background-color: #f9f9fa;
+  color: slategray;
+  background-color: whitesmoke;
 }
 header, footer, .contact {
   background-color: rgb(245, 241, 241);
