@@ -1,2 +1,2 @@
-# Team-Treehouse-Techdegree-Project-2
-Responsive Layout Project
+Techdegree-Project-2/index.html
+
